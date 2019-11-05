@@ -66,6 +66,16 @@ class MainActivity : AppCompatActivity() {
         roomList.add(RoomData(15000, "마포구 망원동", 2))
 
         roomList.add(RoomData("은평구 불광동"))
+        roomList.add(RoomData("은평구 불광동"))
+        roomList.add(RoomData("은평구 불광동"))
+        roomList.add(RoomData("은평구 불광동"))
+        roomList.add(RoomData("은평구 불광동"))
+        roomList.add(RoomData("은평구 불광동"))
+        roomList.add(RoomData("은평구 불광동"))
+        roomList.add(RoomData("은평구 불광동"))
+        roomList.add(RoomData("은평구 불광동"))
+
+
 
     }
 }
